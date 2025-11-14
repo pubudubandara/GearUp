@@ -36,7 +36,7 @@ A comprehensive full-stack application for managing automobile services, appoint
 
 ## 🎯 Overview
 
-AutoServe is a modern automobile service management system that streamlines the booking, scheduling, and management of vehicle services. The application supports multiple user roles (Customer, Employee, Admin) with role-based access control and real-time updates via WebSocket.
+AutoServe is a modern automobile service management system that streamlines the booking, scheduling, and management of vehicle services. The application supports multiple user roles (Customer, Employee, Admin) with role-based access control and real-time updates.
 
 **Key Capabilities:**
 - 📅 Appointment scheduling and management
