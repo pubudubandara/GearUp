@@ -19,18 +19,7 @@ A comprehensive full-stack application for managing automobile services, appoint
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
 - [Development](#development)
-- [Deployment](#deployment)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
 
 ---
 
